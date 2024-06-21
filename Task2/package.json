@@ -1,0 +1,19 @@
+{
+  "name": "libraryapptask2",
+  "version": "1.0.0",
+  "author": "",
+  "main": "main.js",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "electron": "^30.0.8"
+  }
+}
